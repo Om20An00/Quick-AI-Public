@@ -2,7 +2,7 @@
 
 Quick AI is a powerful Full Stack AI SaaS Application built using the **PERN stack** (PostgreSQL, Express.js, React.js, Node.js). It leverages **Clerk** for secure authentication and integrates multiple **AI-powered features** such as image generation, blog/article creation, resume review, and chat completion using the **OpenAI API**.
 
-<img width="205" height="55" alt="image" src="https://github.com/user-attachments/assets/a7d45bb9-67e3-4499-89a5-9975d005ffb7" />
+![Quick AI Screenshot 1](https://raw.githubusercontent.com/Om20An00/Quick-AI-Public/main/client/src/assets/1.png)
 
 ## 🌐 Live Demo
 
@@ -14,19 +14,23 @@ Quick AI is a powerful Full Stack AI SaaS Application built using the **PERN sta
 
 🚪 Landing Page
 
-<img src="https://github.com/user-attachments/assets/3a5e3e29-a61e-4777-80e6-48beab02881a" alt="Landing Page" width="100%" />
+![Quick AI Screenshot 2](https://raw.githubusercontent.com/Om20An00/Quick-AI-Public/main/client/src/assets/2.png)
+
 
 ⚙️ Features Section
 
-<img src="https://github.com/user-attachments/assets/9155b9c5-12de-4ae5-a5af-27ff5722b0b3" alt="Features Section" width="100%" />
+![Quick AI Screenshot 3](https://raw.githubusercontent.com/Om20An00/Quick-AI-Public/main/client/src/assets/3.png)
+
 
 ⭐ Reviews
 
-<img src="https://github.com/user-attachments/assets/e1d01e78-73ad-4015-96b5-3dea1f0ebbed" alt="Reviews Section" width="100%" />
+![Quick AI Screenshot 4](https://raw.githubusercontent.com/Om20An00/Quick-AI-Public/main/client/src/assets/4.png)
+
 
 💳 Payment Methods
 
-<img src="https://github.com/user-attachments/assets/457dea9b-4160-4a0d-a76a-e1c9ee9e47db" alt="Payment Methods" width="100%" />
+![Quick AI Screenshot 5](https://raw.githubusercontent.com/Om20An00/Quick-AI-Public/main/client/src/assets/5.png)
+
 
 
 
