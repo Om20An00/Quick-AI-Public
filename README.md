@@ -36,7 +36,7 @@ Quick AI is a powerful Full Stack AI SaaS Application built using the **PERN sta
 - 🔐 User Authentication & Authorization via Clerk
 - ✍️ Blog & Article Generator using OpenAI
 - 🧠 Resume Review Assistant with AI feedback
-- 🖼️ Image Generator** via OpenAI DALL·E
+- 🖼️ Image Generator via OpenAI DALL·E
 - 💬 AI Chat Completion like ChatGPT
 - ⬆️ Cloudinary-powered Image Uploads
 - 📊 Plan-based API usage limit tracking
