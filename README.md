@@ -72,8 +72,8 @@ DevOps & Tools:
 
 ### 📦 Clone the Repositories
 
-- Frontend Repo: [https://github.com/yourusername/quickai-frontend](https://github.com/yourusername/quickai-frontend)  
-- Backend Repo: [https://github.com/yourusername/quickai-backend](https://github.com/yourusername/quickai-backend)
+- Frontend Repo: [https://github.com/Om20An00/quickai-frontend](https://github.com/Om20An00/quickai-frontend)  
+- Backend Repo: [https://github.com/Om20An00/quickai-backend](https://github.com/Om20An00/quickai-backend)
 
 
 
@@ -94,7 +94,7 @@ Want to contribute or build your own version?
 
 📥 Clone it to your local system
 
-git clone https://github.com/your-username/quickai.git
+git clone [https://github.com/Om20An00/quickai.git](https://github.com/Om20An00/Quick-AI-Public.git)
 
 
 🔧 Make your changes
